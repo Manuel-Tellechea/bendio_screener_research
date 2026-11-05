@@ -1,0 +1,24 @@
+# Starter universe. Add any Swiss Yahoo ticker, one per line.
+RO
+NOVN
+NESN
+ABBN
+UBSG
+CFR
+ZURN
+GALD
+LONN
+SREN
+HOLN
+GIVN
+SCMN
+SDZ
+SCHN
+ALC
+SIKA
+KNIN
+SLHN
+HBAN
+SGSN
+LISN
+EMSN
